@@ -4,7 +4,7 @@
 <h2 align="center">Гречина Нафиса</h2>
 <p align="center">
 <a href="mailto:baynafisa@mail.ru"><img src="https://img.shields.io/badge/email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email"></a>
-<a href="https://t.me/@Nafisagre"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
+<a href="https://t.me/Nafisagre"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"></a>
 
 [//]: # (<a href="https://kazan.hh.ru/resume/261b75e7ff0b77fc560039ed1f744d475a6b33"><img src="https://img.shields.io/badge/Резюме-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="discord"></a>)
 </p>
